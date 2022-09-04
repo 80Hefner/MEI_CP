@@ -1,2 +1,2 @@
 # CP
-Parallel Computing's Project
+Computação Paralela [21-22]
